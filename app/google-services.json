@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "168170537679",
+    "project_id": "minesweeper-for-dd",
+    "storage_bucket": "minesweeper-for-dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168170537679:android:419e37c2adff58b7baedba",
+        "android_client_info": {
+          "package_name": "com.example.minesweeper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-5VD0t0QIx8THtkgj6AVudh3qr8442pA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
